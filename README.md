@@ -46,7 +46,7 @@ The revenue grew by 0.18% in 2022 compared to 2021. This indicates a slight incr
 In the first quarter of 2022, the Books category sold a total of 1706 units, while the Technology category sold 1676 units. These were the least performing categories in terms of quantities sold during that period.
 
 #### 4. Which Age Groups contributed the highest revenue in the last Quarter of 2021 (2.5 million and above)? 
-In the last quarter of 2021, the youth age group (18-35) contributed the highest revenue, surpassing 2.6 million. They were the key contributors to the overall revenue during that period.
+In the last quarter of 2021, the youth age group (18-35 years) contributed the highest revenue, surpassing 2.6 million. They were the key contributors to the overall revenue during that period.
 
 #### 5. What is the average revenue per quantity ordered by each Gender in January 2023?
 In January 2023, the average revenue per quantity ordered by males was 222.83, while for females it was 225.18. This indicates a slight difference in the average revenue generated per quantity ordered between the two genders during that period.

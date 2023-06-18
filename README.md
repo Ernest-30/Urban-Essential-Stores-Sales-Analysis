@@ -32,7 +32,7 @@ The project is structured as follows:
    - Creating a visual dashboard to provide an overview of revenue performance over time. Utilizing charts, graphs, and interactive elements to display         revenue trends, year-over-year comparisons, and quarterly revenue distribution. Allowing the management team to explore revenue data based on specific criteria such as categories, age groups, and gender.
 
 ## Analysis 
-All Analysis was done using SQL. Click here to view the full SQL [Analysis]()
+All Analysis was done using SQL. Click here to view the full SQL [Analysis](https://github.com/Ernest-30/Urban-Essential-Stores-Sales-Analysis/blob/main/Urban%20Essential%20Stores%20Analysis.sql)
 
 ### Business Task
 
@@ -63,7 +63,7 @@ The Revenue Dashboard was created using Tableau. Click here to view the complete
 ## Files Included
 - `Urban Essentials Stores Sales raw data.csv`: The raw dataset containing sales information.
 - `Urban Essential Sales Cleaned Data.xlsx`: The cleaned and preprocessed dataset used for analysis.
-- `Urban Essential Stores Analysis`:  The SQL Server script that includes the codes for the data cleaning, exploratory data analysis, and visualizations.
+- `Urban Essential Stores Analysis.sql`:  The SQL Server script that includes the codes for the data cleaning, exploratory data analysis, and visualizations.
 - `README.md`: This file provides an overview of the project, its objectives, and the analysis performed.
 
 ## Conclusion

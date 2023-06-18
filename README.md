@@ -55,7 +55,7 @@ In January 2023, the average revenue per quantity ordered by males was 222.83, w
 In the third quarter of 2022, the cash payment method was the most preferred payment method for each shopping mall. This suggests that customers in all shopping malls preferred to make their payments in cash during that period.
 
 ## Visualization
-The Revenue Dashboard was created using Tableau. Click here to view the complete Tableau [Dashboard](https://public.tableau.com/authoring/UrbanEssentialStoresRevenueDashboard/Dashboard1/Urban%20Essential%20Stores%20Revenue%20Dashboard#1)
+The Revenue Dashboard was created using Tableau. Click here to view the complete Tableau [Dashboard](https://public.tableau.com/app/profile/ernest.obi/viz/UrbanEssentialStoresRevenueDashboard/Dashboard1)
 
 ![image](https://github.com/Ernest-30/Urban-Essential-Stores-Sales-Analysis/assets/123366282/9bd7e01a-f206-46e0-a7d5-698ccb3d5c26)
 

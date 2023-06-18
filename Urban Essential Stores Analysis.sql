@@ -36,11 +36,11 @@ ADD [Quarter] nvarchar (255);
 
 UPDATE Stores_Sales
 SET [Quarter] = CASE 
-				WHEN DATEPART(QUARTER,[Date]) = 1 THEN 'Q1' 
-				WHEN DATEPART(QUARTER,[Date]) = 2 THEN 'Q2' 
-				WHEN DATEPART(QUARTER,[Date]) = 3 THEN 'Q3' 
-				WHEN DATEPART(QUARTER,[Date]) = 4 THEN 'Q4' 
-				END
+		WHEN DATEPART(QUARTER,[Date]) = 1 THEN 'Q1' 
+		WHEN DATEPART(QUARTER,[Date]) = 2 THEN 'Q2' 
+		WHEN DATEPART(QUARTER,[Date]) = 3 THEN 'Q3' 
+		WHEN DATEPART(QUARTER,[Date]) = 4 THEN 'Q4' 
+		END
 
 
 
@@ -59,12 +59,12 @@ ADD Age_group nvarchar (255);
 
 UPDATE Stores_Sales
 SET Age_group = CASE 
-				WHEN age >= 18 AND age <= 35 THEN 'Youth' 
-				WHEN age >= 36 AND age <= 45 THEN 'Adult'
-				WHEN age >= 46 AND age <= 59 THEN 'Middle_age'
-				WHEN age >= 60 THEN 'Old'
-				ELSE 'Other'
-				END
+		WHEN age >= 18 AND age <= 35 THEN 'Youth' 
+		WHEN age >= 36 AND age <= 45 THEN 'Adult'
+		WHEN age >= 46 AND age <= 59 THEN 'Middle_age'
+		WHEN age >= 60 THEN 'Old'
+		ELSE 'Other'
+		END
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		
 /* Overall Summary */

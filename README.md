@@ -67,6 +67,7 @@ The Revenue Dashboard was created using Tableau. Click here to view the complete
 - `README.md`: This file provides an overview of the project, its objectives, and the analysis performed.
 
 ## Conclusion
+
 Based on the analysis conducted on the provided data, the following conclusions can be drawn:
 
 1. The revenue in 2022 showed a slight increase of 0.18% compared to 2021, indicating a positive growth trend.
@@ -80,6 +81,7 @@ Based on the analysis conducted on the provided data, the following conclusions 
 5. Cash payment was the most preferred payment method for each shopping mall in the third quarter of 2022, highlighting the importance of providing cash payment options to cater to customer preferences.
 
 ## Recommendation:
+
 Based on the findings, the following recommendations can be made:
 
 1. Focus on strategies to boost sales in the Books and Technology categories, such as targeted marketing campaigns or promotions to attract more customers and increase sales volume.
